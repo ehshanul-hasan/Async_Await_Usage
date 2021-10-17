@@ -1,0 +1,16 @@
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.exe
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.deps.json
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.runtimeconfig.json
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.runtimeconfig.dev.json
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.dll
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\ref\AsyncAwait_Understanding.dll
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\bin\Debug\net5.0\AsyncAwait_Understanding.pdb
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.csproj.AssemblyReference.cache
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.AssemblyInfoInputs.cache
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.AssemblyInfo.cs
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.csproj.CoreCompileInputs.cache
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.dll
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\ref\AsyncAwait_Understanding.dll
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.pdb
+C:\Xplore\Learn\Practice\AsyncAwait_Understanding\AsyncAwait_Understanding\obj\Debug\net5.0\AsyncAwait_Understanding.genruntimeconfig.cache
