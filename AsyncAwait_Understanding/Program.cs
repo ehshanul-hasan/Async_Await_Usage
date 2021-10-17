@@ -39,19 +39,17 @@ namespace AsyncAwait_Understanding
             Console.WriteLine($"SecondAwaiterProxy method completed! Thread ID: {System.Threading.Thread.CurrentThread.ManagedThreadId}");
         }
 
-        static async Task<int> MethodOne()
+        static async Task MethodOne()
         {
             
             var responseString = await client.GetStringAsync("https://deelay.me/1000/https://reqres.in/api/users?page=2");
             Console.WriteLine($"Method One! Thread ID: {System.Threading.Thread.CurrentThread.ManagedThreadId}. Length : {responseString.Length}");
-            return 0;
         }
 
-        static async Task<int> MethodTwo()
+        static async Task MethodTwo()
         {
             var responseString = await client.GetStringAsync("https://deelay.me/3000/https://reqres.in/api/users?page=2");
             Console.WriteLine($"Method Two! Thread ID: {System.Threading.Thread.CurrentThread.ManagedThreadId}. Length : {responseString.Length}");
-            return 0;
         }
     }
 }
